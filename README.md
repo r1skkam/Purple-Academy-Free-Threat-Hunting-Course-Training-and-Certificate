@@ -41,6 +41,4 @@ Starting with the first antivirus software, we are traditionally detecting Atomi
 
 Transitioning from reactive to proactive is slow. It can be difficult, and fallbacks to IOCs are understandable. So, how do we start climbing this pyramid and get away from solely focusing on IoC more towards to the top of the pyramid? The answer is threat hunting.
 
-![image](https://user-images.githubusercontent.com/58542375/176232170-12a89926-bdfd-4b49-b6f3-160c1f247719.png)
-
 ![image](https://user-images.githubusercontent.com/58542375/176232427-e202a81d-b7e5-4ab5-8917-2a3801476077.png)
